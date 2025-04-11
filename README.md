@@ -1,2 +1,2 @@
 # test_repo
-This is example trepo
+This is example repo
